@@ -28,21 +28,16 @@
 * сравнение с нормальным распределением;
 * эмпирическая функция распределения (ECDF).
 
-## Структура проекта
-```
-pineapple-price-analysis/
-│
-├── data/                       # данные (опционально)
-├── notebooks/                  # Jupyter Notebook
-├── src/                        # Python-скрипты
-├── reports/                    # отчёт в Markdown
-├── images/                     # графики
-└── README.md                   # описание проекта
-```
-
 ## Технологии
 * Python
 * NumPy
 * Pandas
 * Matplotlib
 * SciPy
+
+## Запустить в Google Colab
+[Открыть в Colab](https://colab.research.google.com/github/Ya227/pineapple-price-analysis/blob/main/notebooks/pineapple_analysis.ipynb)
+
+### Примечание
+Исходный файл ananas.xlsx включён в репозиторий.
+Код полностью воспроизводим.
