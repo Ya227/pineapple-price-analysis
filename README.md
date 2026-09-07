@@ -28,6 +28,16 @@
 * сравнение с нормальным распределением;
 * эмпирическая функция распределения (ECDF).
 
+## Материалы
+- Notebook: 
+  [pineapple_analysis.ipynb](https://github.com/Ya227/pineapple-price-analysis/blob/main/notebooks/pineapple_analysis.ipynb)
+
+- Отчёт: 
+  [report.md](https://github.com/Ya227/pineapple-price-analysis/blob/main/reports/report.md)
+
+- Код:  
+  [analysis.py](https://github.com/Ya227/pineapple-price-analysis/blob/main/src/analysis.py)
+
 ## Технологии
 * Python
 * NumPy
