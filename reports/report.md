@@ -56,6 +56,10 @@
 * SciPy
 * statistics
 
+## Запустить в Google Colab
+[Открыть в Colab](https://colab.research.google.com/github/Ya227/pineapple-price-analysis/blob/main/notebooks/pineapple_analysis.ipynb)
+
+
 ### Примечание
 Исходный файл ananas.xlsx включён в репозиторий.
 Код полностью воспроизводим.
